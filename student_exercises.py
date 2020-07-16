@@ -32,5 +32,3 @@ joe.assignExercise(kaleb, chicken_monkey)
 bryan.assignExercise(zach, add_three)
 sage.assignExercise(sophia, guess_num)
 joe.assignExercise(sam, coins_rupees)
-
-        
